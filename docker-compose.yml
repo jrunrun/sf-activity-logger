@@ -1,0 +1,11 @@
+version: "3.3"
+   
+services:
+  python-env:
+    container_name: python-script
+    build:
+      context: .
+      dockerfile: Dockerfile
+    command: python bulkAPI_PTO_work_logger.py
+    volumes:
+      - .:/code
