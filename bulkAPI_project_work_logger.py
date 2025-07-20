@@ -7,20 +7,75 @@ import json
 
 def create_activity(date_str):
     events = []
-    current_total = 0
-    event_start_date_time_offset_list = [0,2,4,6]
     
-    total_hours=4
-    task_type="Asset Creation"
-    start_time="08:00:00-05:00"
-    subject_list=['cdapp', 'exp cloud', 'api stuff', 'sf stuff', 'project work', 'product/research']
-    event_duration_list=[1.5, 2, 3]
+    start_time="08:00:00-06:00"
+    
+    # Asset Creation
+    # daily_max_hours=3
+    # event_start_date_time_offset_list = [0,2,4,6]
+    # task_type="Asset Creation"
+    # subject_list=['cdapp', 'exp cloud', 'api stuff', 'sf stuff', 'project work', 'product/research']
+    # event_duration_list=[1.5, 2, 3]
+
+    # Admin
+    # daily_max_hours=1.5
+    # event_start_date_time_offset_list = [0,2,4,6]
+    # task_type="Admin"
+    # subject_list=['admin']
+    # event_duration_list=[0.5, 1, 1.5]
+
+    # Marketing Support - good - TC prep
+    # daily_max_hours=4
+    # event_start_date_time_offset_list = [0,2,4,6]
+    # task_type="Marketing Support"
+    # subject_list=['tc25 prep']
+    # event_duration_list=[1, 2]
+
+    # Solution Creation
+    daily_max_hours=4
+    event_start_date_time_offset_list = [0,2,4,6]
+    task_type="Solution Creation"
+    subject_list=['cameron - customer poc']
+    event_duration_list=[1, 2]
+
+    # Account Planning - good - 2 hours per day on Monday, Friday
+    # daily_max_hours=2
+    # event_start_date_time_offset_list = [0]
+    # task_type="Account Planning"
+    # subject_list=['Account Planning']
+    # event_duration_list=[2]
+
+    # # Marketing Support - At TC
+    # daily_max_hours=8
+    # event_start_date_time_offset_list = [0]
+    # task_type="Marketing Support"
+    # subject_list=['TC25 - HOT, Breakout, SIC, Customer meetings']
+    # event_duration_list=[8]
+
+
+
+    # Personal Development
+    # daily_max_hours=2
+    # event_start_date_time_offset_list = [0,2,4,6]
+    # task_type="Personal Development"
+    # subject_list=['api stuff', 'product/research', 'agentforce']
+    # event_duration_list=[0.5, 1, 1.5, 2]
+
+
+    # # Wellness
+    # daily_max_hours=8
+    # event_start_date_time_offset_list = [0]
+    # task_type="Wellness"
+    # subject_list=['PTO']
+    # event_duration_list=[8]
+    
+    
 
     month, day, year = map(int, date_str.split('-'))
     start_date_time_str = f"{year}-{month:02d}-{day:02d}T{start_time}"
 
-    current_total = 0
-    while current_total < total_hours:
+    current_day_total = 0
+    while current_day_total < daily_max_hours:
         print(event_start_date_time_offset_list)
         offset = random.choice(event_start_date_time_offset_list)
         offset_index = event_start_date_time_offset_list.index(offset)
@@ -38,11 +93,16 @@ def create_activity(date_str):
         event_start_date_time_str = event_start_date_time.isoformat()
         event_end_date_time_str = event_end_date_time.isoformat()
 
+        
+
+        print(f"Total for current day: {current_day_total} hours")
+        print(f"Event duration: {event_duration} hours")
+        if current_day_total + event_duration > daily_max_hours:
+            print(f"Event duration is greater than total hours: {event_duration} hours")
+            event_duration = daily_max_hours - current_day_total
+
         event_duration_decimal = Decimal(event_duration).quantize(Decimal('0.00'), rounding=ROUND_DOWN)
         event_duration_decimal_str = str(event_duration_decimal)
-
-        if current_total + event_duration > total_hours:
-            event_duration = total_hours - current_total
 
         events.append({
             "start_date_time": event_start_date_time_str,
@@ -51,9 +111,10 @@ def create_activity(date_str):
             "subject": event_subject,
             "task_type": event_task_type
         })
-        current_total += event_duration
 
-    print(f"Total duration: {current_total} hours")
+        current_day_total += event_duration
+
+    print(f"Total for current day: {current_day_total} hours")
     print(f"Events: {json.dumps(events, indent=4)}")
 
     return events
@@ -127,6 +188,8 @@ def log_project_work_for_dates(dates_list, token):
     log_activity_in_salesforce(events, token)
 
 
-dates_list = ['7-29-2024', '7-22-2024']
-token = 'eyJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoiZW5jMl8vaWUzdkpIRkxTZDR0STRxY1hOK1pRPT1cbiIsImV4cCI6MTcyMzE1NjkyOH0.n-BpAN8wV4XrPv6ZhfV4d2x7RkAu-GdILIptdAmyHVM'
+dates_list = ['03-03-2025', '03-04-2025', '03-10-2025', '03-11-2025', '03-17-2025', '03-18-2025', '03-24-2025', '03-20-2025', '03-24-2025']
+token = 'eyJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoiZW5jMl8vaWUzdkpIRkxTZDR0STRxY1hOK1pRPT1cbiIsImV4cCI6MTc0NjAyOTYwOH0.ZjF7k29Mm5jcfd2CHFjFJ-vrIL2cbzcrTr2C2eLbyL4'
 log_project_work_for_dates(dates_list, token)
+
+

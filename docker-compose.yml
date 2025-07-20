@@ -6,6 +6,6 @@ services:
     build:
       context: .
       dockerfile: Dockerfile
-    command: python bulkAPI_PTO_work_logger.py
+    command: python bulkAPI_project_work_logger.py
     volumes:
       - .:/code
