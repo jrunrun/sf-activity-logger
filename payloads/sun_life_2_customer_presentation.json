@@ -1,0 +1,58 @@
+{
+    "events": [
+        {
+            "StartDateTime": "2025-07-16T16:30:00.000-05:00",
+            "Subject": "sun life prep",
+            "EndDateTime": "2025-07-16T17:00:00.000-05:00",
+            "SE_Task_Type__c": "Customer Presentation",
+            "Description": "",
+            "Remote__c": false,
+            "Meeting_Type__c": "",
+            "Duration__c": "0.50",
+            "WhoId": "",
+            "WhatId": "006ed000004p7htAAA",
+            "RecordTypeId": "01230000001GgBYAA0",
+            "id": "2hjvcs7526mnen13d35tq6eck0",
+            "selectedRecord": {
+                "id": "006ed000004p7htAAA",
+                "display_field_1": "Tab-Sun Life-Embedded Analytics UBL",
+                "iconUrl": "/assets/libs/salesforce-lightning-design-system-2.11.9/assets/icons/standard-sprite/svg/symbols.svg#opportunity",
+                "iconType": "standard",
+                "sobject": "opportunity",
+                "additionalFields": {
+                    "Owner": "David Greenwood(MF)",
+                    "Amount": 49751.99999983,
+                    "Close Date": "2025-04-25",
+                    "Account Name": "SUN Life Assurance Company Of Canada"
+                }
+            }
+        },
+        {
+            "StartDateTime": "2025-07-16T17:00:00.000-05:00",
+            "Subject": "Sun life direct vs. OAuth",
+            "EndDateTime": "2025-07-16T17:30:00.000-05:00",
+            "SE_Task_Type__c": "Customer Presentation",
+            "Description": "",
+            "Remote__c": false,
+            "Meeting_Type__c": "",
+            "Duration__c": "0.50",
+            "WhoId": "",
+            "WhatId": "006ed000004p7htAAA",
+            "RecordTypeId": "01230000001GgBYAA0",
+            "id": "2m9ir1i3fg55i7r8qavf86lulk",
+            "selectedRecord": {
+                "id": "006ed000004p7htAAA",
+                "display_field_1": "Tab-Sun Life-Embedded Analytics UBL",
+                "iconUrl": "/assets/libs/salesforce-lightning-design-system-2.11.9/assets/icons/standard-sprite/svg/symbols.svg#opportunity",
+                "iconType": "standard",
+                "sobject": "opportunity",
+                "additionalFields": {
+                    "Owner": "David Greenwood(MF)",
+                    "Amount": 49751.99999983,
+                    "Close Date": "2025-04-25",
+                    "Account Name": "SUN Life Assurance Company Of Canada"
+                }
+            }
+        }
+    ]
+}

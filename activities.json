@@ -1,0 +1,129 @@
+{
+    "events": [{
+        "Description": "",
+        "Duration__c": "1.00",
+        "EndDateTime": "2025-07-24T11:00:00.000-05:00",
+        "id": "",
+        "Meeting_Type__c": "",
+        "RecordTypeId": "01230000001GgBYAA0",
+        "Remote__c": false,
+        "SE_Task_Type__c": "Customer Presentation",
+        "selectedRecord": {
+            "additionalFields": {},
+            "display_field_1": "",
+            "iconType": "standard",
+            "iconUrl": "",
+            "id": "006ed00000A0cXNAAZ",
+            "sobject": "opportunity"
+        },
+        "StartDateTime": "2025-07-24T10:00:00.000-05:00",
+        "Subject": "Brightree",
+        "WhatId": "006ed00000A0cXNAAZ",
+        "WhoId": ""
+    }, {
+        "Description": "",
+        "Duration__c": "1.00",
+        "EndDateTime": "2025-07-01T16:00:00.000-05:00",
+        "id": "",
+        "Meeting_Type__c": "",
+        "RecordTypeId": "01230000001GgBYAA0",
+        "Remote__c": false,
+        "SE_Task_Type__c": "Customer Presentation",
+        "selectedRecord": {
+            "additionalFields": {},
+            "display_field_1": "",
+            "iconType": "standard",
+            "iconUrl": "",
+            "id": "006ed00000A0cXNAAZ",
+            "sobject": "opportunity"
+        },
+        "StartDateTime": "2025-07-01T15:00:00.000-05:00",
+        "Subject": "Brightree",
+        "WhatId": "006ed00000A0cXNAAZ",
+        "WhoId": ""
+    }, {
+        "Description": "",
+        "Duration__c": "1.00",
+        "EndDateTime": "2025-06-26T14:00:00.000-05:00",
+        "id": "",
+        "Meeting_Type__c": "",
+        "RecordTypeId": "01230000001GgBYAA0",
+        "Remote__c": false,
+        "SE_Task_Type__c": "Customer Presentation",
+        "selectedRecord": {
+            "additionalFields": {},
+            "display_field_1": "",
+            "iconType": "standard",
+            "iconUrl": "",
+            "id": "006ed00000A0cXNAAZ",
+            "sobject": "opportunity"
+        },
+        "StartDateTime": "2025-06-26T13:00:00.000-05:00",
+        "Subject": "Brightree",
+        "WhatId": "006ed00000A0cXNAAZ",
+        "WhoId": ""
+    }, {
+        "Description": "",
+        "Duration__c": "1.00",
+        "EndDateTime": "2025-07-23T12:00:00.000-05:00",
+        "id": "",
+        "Meeting_Type__c": "",
+        "RecordTypeId": "01230000001GgBYAA0",
+        "Remote__c": false,
+        "SE_Task_Type__c": "Customer Presentation",
+        "selectedRecord": {
+            "additionalFields": {},
+            "display_field_1": "",
+            "iconType": "standard",
+            "iconUrl": "",
+            "id": "006ed000004p7htAAA",
+            "sobject": "opportunity"
+        },
+        "StartDateTime": "2025-07-23T11:00:00.000-05:00",
+        "Subject": "Sun Life",
+        "WhatId": "006ed000004p7htAAA",
+        "WhoId": ""
+    }, {
+        "Description": "",
+        "Duration__c": "1.00",
+        "EndDateTime": "2025-07-29T10:00:00.000-05:00",
+        "id": "",
+        "Meeting_Type__c": "",
+        "RecordTypeId": "01230000001GgBYAA0",
+        "Remote__c": false,
+        "SE_Task_Type__c": "Customer Presentation",
+        "selectedRecord": {
+            "additionalFields": {},
+            "display_field_1": "",
+            "iconType": "standard",
+            "iconUrl": "",
+            "id": "006ed000004p7htAAA",
+            "sobject": "opportunity"
+        },
+        "StartDateTime": "2025-07-29T09:00:00.000-05:00",
+        "Subject": "Sun Life",
+        "WhatId": "006ed000004p7htAAA",
+        "WhoId": ""
+    }, {
+        "Description": "",
+        "Duration__c": "1.00",
+        "EndDateTime": "2025-07-30T14:00:00.000-05:00",
+        "id": "",
+        "Meeting_Type__c": "",
+        "RecordTypeId": "01230000001GgBYAA0",
+        "Remote__c": false,
+        "SE_Task_Type__c": "Customer Presentation",
+        "selectedRecord": {
+            "additionalFields": {},
+            "display_field_1": "",
+            "iconType": "standard",
+            "iconUrl": "",
+            "id": "006ed000004p7htAAA",
+            "sobject": "opportunity"
+        },
+        "StartDateTime": "2025-07-30T13:00:00.000-05:00",
+        "Subject": "Sun Life",
+        "WhatId": "006ed000004p7htAAA",
+        "WhoId": ""
+    }]
+}

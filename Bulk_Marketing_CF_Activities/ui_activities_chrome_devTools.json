@@ -1,0 +1,32 @@
+{
+    "events": [
+        {
+            "StartDateTime": "2025-07-21T15:30:00.000-05:00",
+            "Subject": "fins webinar prep",
+            "EndDateTime": "2025-07-21T19:00:00.000-05:00",
+            "SE_Task_Type__c": "Marketing Support",
+            "Description": "",
+            "Remote__c": false,
+            "Meeting_Type__c": "",
+            "Duration__c": "3.50",
+            "WhoId": "",
+            "RecordTypeId": "01230000001GgBYAA0",
+            "id": "4r4om8mc200bd15e5a56ga7bpi",
+            "selectedRecord": {}
+        },
+        {
+            "StartDateTime": "2025-07-21T09:30:00.000-05:00",
+            "Subject": "fins webinar prep",
+            "EndDateTime": "2025-07-21T12:15:00.000-05:00",
+            "SE_Task_Type__c": "Marketing Support",
+            "Description": "",
+            "Remote__c": false,
+            "Meeting_Type__c": "",
+            "Duration__c": "2.75",
+            "WhoId": "",
+            "RecordTypeId": "01230000001GgBYAA0",
+            "id": "0kprldin922vu9i242msvghgib",
+            "selectedRecord": {}
+        }
+    ]
+}

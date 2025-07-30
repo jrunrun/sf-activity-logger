@@ -1,0 +1,58 @@
+{
+    "events": [
+        {
+            "StartDateTime": "2025-07-14T09:30:00.000-05:00",
+            "Subject": "[internal] Alignment on LPL Discussion ",
+            "EndDateTime": "2025-07-14T09:45:00.000-05:00",
+            "SE_Task_Type__c": "Customer Discovery",
+            "Description": "",
+            "Remote__c": false,
+            "Meeting_Type__c": "",
+            "Duration__c": "0.25",
+            "WhoId": "",
+            "WhatId": "006ed00000A59OHAAZ",
+            "RecordTypeId": "01230000001GgBYAA0",
+            "id": "58qsubq0p7d7g2g0a4tnrrooa8",
+            "selectedRecord": {
+                "id": "006ed00000A59OHAAZ",
+                "display_field_1": "TAB - LPL - Ashish Shrivastava - Server to Tab+ Upgrade",
+                "iconUrl": "/assets/libs/salesforce-lightning-design-system-2.11.9/assets/icons/standard-sprite/svg/symbols.svg#opportunity",
+                "iconType": "standard",
+                "sobject": "opportunity",
+                "additionalFields": {
+                    "Owner": "Adam Ward",
+                    "Amount": 375463.296,
+                    "Close Date": "2026-01-23",
+                    "Account Name": "LPL Financial LLC"
+                }
+            }
+        },
+        {
+            "StartDateTime": "2025-07-14T14:00:00.000-05:00",
+            "Subject": "Tableau & LPL - Client Works Discussion ",
+            "EndDateTime": "2025-07-14T14:30:00.000-05:00",
+            "SE_Task_Type__c": "Customer Discovery",
+            "Description": "LPL Team - Looking forward to connecting regarding the Tableau Cloud integration into ClientWorks - covering SSO and SLO.",
+            "Remote__c": false,
+            "Meeting_Type__c": "",
+            "Duration__c": "0.50",
+            "WhoId": "",
+            "WhatId": "006ed00000A59OHAAZ",
+            "RecordTypeId": "01230000001GgBYAA0",
+            "id": "73mjod7qiiusql5gsnfj8kqmak",
+            "selectedRecord": {
+                "id": "006ed00000A59OHAAZ",
+                "display_field_1": "TAB - LPL - Ashish Shrivastava - Server to Tab+ Upgrade",
+                "iconUrl": "/assets/libs/salesforce-lightning-design-system-2.11.9/assets/icons/standard-sprite/svg/symbols.svg#opportunity",
+                "iconType": "standard",
+                "sobject": "opportunity",
+                "additionalFields": {
+                    "Owner": "Adam Ward",
+                    "Amount": 375463.296,
+                    "Close Date": "2026-01-23",
+                    "Account Name": "LPL Financial LLC"
+                }
+            }
+        }
+    ]
+}

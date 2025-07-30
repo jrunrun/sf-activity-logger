@@ -1,0 +1,57 @@
+[
+        {
+            "StartDateTime": "2025-07-17T11:00:00.000-05:00",
+            "Subject": "Elevance Prep",
+            "EndDateTime": "2025-07-17T11:30:00.000-05:00",
+            "SE_Task_Type__c": "Customer Presentation",
+            "Description": "",
+            "Remote__c": false,
+            "Meeting_Type__c": "",
+            "Duration__c": "0.50",
+            "WhoId": "",
+            "WhatId": "006ed00000BW2oLAAT",
+            "RecordTypeId": "01230000001GgBYAA0",
+            "id": "07tqn133ug72r8bbec4fe1goip",
+            "selectedRecord": {
+                "id": "006ed00000BW2oLAAT",
+                "display_field_1": "TAB - Big Bet - Elevance Upside Tableau Plus/ Next Consolidation Deal",
+                "iconUrl": "/assets/libs/salesforce-lightning-design-system-2.11.9/assets/icons/standard-sprite/svg/symbols.svg#opportunity",
+                "iconType": "standard",
+                "sobject": "opportunity",
+                "additionalFields": {
+                    "Owner": "Steven LaLonde",
+                    "Amount": 1625492,
+                    "Close Date": "2025-08-15",
+                    "Account Name": "Elevance Health - Data Cloud Prime"
+                }
+            }
+        },
+        {
+            "StartDateTime": "2025-07-17T13:00:00.000-05:00",
+            "Subject": "2PM ET - Tableau/ Elevance Sync on EC + Tab Embedded",
+            "EndDateTime": "2025-07-17T13:30:00.000-05:00",
+            "SE_Task_Type__c": "Customer Presentation",
+            "Description": "<ol><li>Creating Tableau Enterprise Cloud (TEC) and Experience Cloud (EC)<u></u><u></u></li><li>Will TEC and EC will be created in same AWS Region<u></u><u></u></li><li>Integration of TEC and EC<u></u><u></u></li><li>Training on EC</li></ol><br><br>Sunil Patel is inviting you to a scheduled Zoom meeting.<br><br>Topic: Sunil Patel's Personal Meeting Room<br>Join Zoom Meeting<br><a href=\"https://salesforce.zoom.us/j/9452719165?pwd=NVdLb3NGVHExdzkzb2diVGkvRVdIdz09\">https://salesforce.zoom.us/j/9452719165?pwd=NVdLb3NGVHExdzkzb2diVGkvRVdIdz09</a><br><br>Meeting ID: 945 271 9165<br>Passcode: 242001<br><br>---<br><br>One tap mobile<br>+19292056099,,9452719165#,,,,*242001# US (New York)<br>+13017158592,,9452719165#,,,,*242001# US (Washington DC)<br><br>---<br><br>Dial by your location<br>• +1 929 205 6099 US (New York)<br>• +1 301 715 8592 US (Washington DC)<br>• +1 305 224 1968 US<br>• +1 309 205 3325 US<br>• +1 312 626 6799 US (Chicago)<br>• +1 646 931 3860 US<br>• +1 253 215 8782 US (Tacoma)<br>• +1 346 248 7799 US (Houston)<br>• +1 360 209 5623 US<br>• +1 386 347 5053 US<br>• +1 507 473 4847 US<br>• +1 564 217 2000 US<br>• +1 669 444 9171 US<br>• +1 669 900 6833 US (San Jose)<br>• +1 689 278 1000 US<br>• +1 719 359 4580 US<br>• +1 253 205 0468 US<br>• 888 788 0099 US Toll-free<br>• 833 548 0276 US Toll-free<br>• 833 548 0282 US Toll-free<br>• 833 928 4608 US Toll-free<br>• 833 928 4609 US Toll-free<br>• 833 928 4610 US Toll-free<br>• 877 853 5247 US Toll-free<br><br>Meeting ID: 945 271 9165<br>Passcode: 242001<br><br>Find your local number: <a href=\"https://salesforce.zoom.us/u/krjR0lzi1\">https://salesforce.zoom.us/u/krjR0lzi1</a><br><br>---<br><br>Join by SIP<br>• 9452719165@zoomcrc.com<br><br>---<br><br>Join by H.323<br>• 144.195.19.161 (US West)<br>• 206.247.11.121 (US East)<br>• 115.114.131.7 (India Mumbai)<br>• 115.114.115.7 (India Hyderabad)<br>• 159.124.15.191 (Amsterdam Netherlands)<br>• 159.124.47.249 (Germany)<br>• 159.124.104.213 (Australia Sydney)<br>• 159.124.74.212 (Australia Melbourne)<br>• 170.114.134.121 (Hong Kong SAR)<br>• 64.211.144.160 (Brazil)<br>• 159.124.168.213 (Canada Toronto)<br>• 159.124.196.25 (Canada Vancouver)<br>• 170.114.194.163 (Japan Tokyo)<br>• 147.124.100.25 (Japan Osaka)<br><br>Meeting ID: 945 271 9165<br>Passcode: 242001",
+            "Remote__c": false,
+            "Meeting_Type__c": "",
+            "Duration__c": "0.50",
+            "WhoId": "",
+            "WhatId": "006ed00000BW2oLAAT",
+            "RecordTypeId": "01230000001GgBYAA0",
+            "id": "6q5louttpf7sb1dbl6ecflg32h",
+            "Location": "https://salesforce.zoom.us/j/9452719165?pwd=NVdLb3NGVHExdzkzb2diVGkvRVdIdz09",
+            "selectedRecord": {
+                "id": "006ed00000BW2oLAAT",
+                "display_field_1": "TAB - Big Bet - Elevance Upside Tableau Plus/ Next Consolidation Deal",
+                "iconUrl": "/assets/libs/salesforce-lightning-design-system-2.11.9/assets/icons/standard-sprite/svg/symbols.svg#opportunity",
+                "iconType": "standard",
+                "sobject": "opportunity",
+                "additionalFields": {
+                    "Owner": "Steven LaLonde",
+                    "Amount": 1625492,
+                    "Close Date": "2025-08-15",
+                    "Account Name": "Elevance Health - Data Cloud Prime"
+                }
+            }
+        }
+    ]
