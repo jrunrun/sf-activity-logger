@@ -1,0 +1,193 @@
+{
+    "events": [{
+        "Description": "",
+        "Duration__c": "1.00",
+        "EndDateTime": "2025-10-27T10:00:00.000-05:00",
+        "id": "",
+        "Meeting_Type__c": "",
+        "RecordTypeId": "01230000001GgBYAA0",
+        "Remote__c": false,
+        "SE_Task_Type__c": "Customer Presentation",
+        "selectedRecord": {
+            "additionalFields": {},
+            "display_field_1": "",
+            "iconType": "standard",
+            "iconUrl": "",
+            "id": "006ed00000FxbxOAAR",
+            "sobject": "opportunity"
+        },
+        "StartDateTime": "2025-10-27T09:00:00.000-05:00",
+        "Subject": "Guardian Life Insurance Company",
+        "WhatId": "006ed00000FxbxOAAR",
+        "WhoId": ""
+    }, {
+        "Description": "",
+        "Duration__c": "1.00",
+        "EndDateTime": "2025-10-27T11:00:00.000-05:00",
+        "id": "",
+        "Meeting_Type__c": "",
+        "RecordTypeId": "01230000001GgBYAA0",
+        "Remote__c": false,
+        "SE_Task_Type__c": "Customer Discovery",
+        "selectedRecord": {
+            "additionalFields": {},
+            "display_field_1": "",
+            "iconType": "standard",
+            "iconUrl": "",
+            "id": "006ed00000FxbxOAAR",
+            "sobject": "opportunity"
+        },
+        "StartDateTime": "2025-10-27T10:00:00.000-05:00",
+        "Subject": "Guardian Life Insurance Company",
+        "WhatId": "006ed00000FxbxOAAR",
+        "WhoId": ""
+    }, {
+        "Description": "",
+        "Duration__c": "1.00",
+        "EndDateTime": "2025-10-27T12:00:00.000-05:00",
+        "id": "",
+        "Meeting_Type__c": "",
+        "RecordTypeId": "01230000001GgBYAA0",
+        "Remote__c": false,
+        "SE_Task_Type__c": "Customer Presentation",
+        "selectedRecord": {
+            "additionalFields": {},
+            "display_field_1": "",
+            "iconType": "standard",
+            "iconUrl": "",
+            "id": "006ed00000FxbxOAAR",
+            "sobject": "opportunity"
+        },
+        "StartDateTime": "2025-10-27T11:00:00.000-05:00",
+        "Subject": "Guardian Life Insurance Company",
+        "WhatId": "006ed00000FxbxOAAR",
+        "WhoId": ""
+    }, {
+        "Description": "",
+        "Duration__c": "1.00",
+        "EndDateTime": "2025-10-29T10:00:00.000-05:00",
+        "id": "",
+        "Meeting_Type__c": "",
+        "RecordTypeId": "01230000001GgBYAA0",
+        "Remote__c": false,
+        "SE_Task_Type__c": "Customer Discovery",
+        "selectedRecord": {
+            "additionalFields": {},
+            "display_field_1": "",
+            "iconType": "standard",
+            "iconUrl": "",
+            "id": "006ed0000064FzVAAU",
+            "sobject": "opportunity"
+        },
+        "StartDateTime": "2025-10-29T09:00:00.000-05:00",
+        "Subject": "Bank of Montreal",
+        "WhatId": "006ed0000064FzVAAU",
+        "WhoId": ""
+    }, {
+        "Description": "",
+        "Duration__c": "1.00",
+        "EndDateTime": "2025-10-29T11:00:00.000-05:00",
+        "id": "",
+        "Meeting_Type__c": "",
+        "RecordTypeId": "01230000001GgBYAA0",
+        "Remote__c": false,
+        "SE_Task_Type__c": "Customer Presentation",
+        "selectedRecord": {
+            "additionalFields": {},
+            "display_field_1": "",
+            "iconType": "standard",
+            "iconUrl": "",
+            "id": "006ed0000064FzVAAU",
+            "sobject": "opportunity"
+        },
+        "StartDateTime": "2025-10-29T10:00:00.000-05:00",
+        "Subject": "Bank of Montreal",
+        "WhatId": "006ed0000064FzVAAU",
+        "WhoId": ""
+    }, {
+        "Description": "",
+        "Duration__c": "1.00",
+        "EndDateTime": "2025-10-29T12:00:00.000-05:00",
+        "id": "",
+        "Meeting_Type__c": "",
+        "RecordTypeId": "01230000001GgBYAA0",
+        "Remote__c": false,
+        "SE_Task_Type__c": "Customer Discovery",
+        "selectedRecord": {
+            "additionalFields": {},
+            "display_field_1": "",
+            "iconType": "standard",
+            "iconUrl": "",
+            "id": "006ed0000064FzVAAU",
+            "sobject": "opportunity"
+        },
+        "StartDateTime": "2025-10-29T11:00:00.000-05:00",
+        "Subject": "Bank of Montreal",
+        "WhatId": "006ed0000064FzVAAU",
+        "WhoId": ""
+    }, {
+        "Description": "",
+        "Duration__c": "1.00",
+        "EndDateTime": "2025-10-30T10:00:00.000-05:00",
+        "id": "",
+        "Meeting_Type__c": "",
+        "RecordTypeId": "01230000001GgBYAA0",
+        "Remote__c": false,
+        "SE_Task_Type__c": "Customer Presentation",
+        "selectedRecord": {
+            "additionalFields": {},
+            "display_field_1": "",
+            "iconType": "standard",
+            "iconUrl": "",
+            "id": "006ed00000ELgfJAAT",
+            "sobject": "opportunity"
+        },
+        "StartDateTime": "2025-10-30T09:00:00.000-05:00",
+        "Subject": "Empower",
+        "WhatId": "006ed00000ELgfJAAT",
+        "WhoId": ""
+    }, {
+        "Description": "",
+        "Duration__c": "1.00",
+        "EndDateTime": "2025-10-30T11:00:00.000-05:00",
+        "id": "",
+        "Meeting_Type__c": "",
+        "RecordTypeId": "01230000001GgBYAA0",
+        "Remote__c": false,
+        "SE_Task_Type__c": "Customer Discovery",
+        "selectedRecord": {
+            "additionalFields": {},
+            "display_field_1": "",
+            "iconType": "standard",
+            "iconUrl": "",
+            "id": "006ed00000ELgfJAAT",
+            "sobject": "opportunity"
+        },
+        "StartDateTime": "2025-10-30T10:00:00.000-05:00",
+        "Subject": "Empower",
+        "WhatId": "006ed00000ELgfJAAT",
+        "WhoId": ""
+    }, {
+        "Description": "",
+        "Duration__c": "1.00",
+        "EndDateTime": "2025-10-30T12:00:00.000-05:00",
+        "id": "",
+        "Meeting_Type__c": "",
+        "RecordTypeId": "01230000001GgBYAA0",
+        "Remote__c": false,
+        "SE_Task_Type__c": "Customer Presentation",
+        "selectedRecord": {
+            "additionalFields": {},
+            "display_field_1": "",
+            "iconType": "standard",
+            "iconUrl": "",
+            "id": "006ed00000ELgfJAAT",
+            "sobject": "opportunity"
+        },
+        "StartDateTime": "2025-10-30T11:00:00.000-05:00",
+        "Subject": "Empower",
+        "WhatId": "006ed00000ELgfJAAT",
+        "WhoId": ""
+    }]
+
+}

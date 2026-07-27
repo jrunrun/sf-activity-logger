@@ -2,9 +2,10 @@ import requests
 import json
 
 url = "https://activityeditor.qlabs.sfdc.sh/v1/push_bulk_activities"
-token = "eyJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoiZW5jMl8vaWUzdkpIRkxTZDR0STRxY1hOK1pRPT1cbiIsImV4cCI6MTc1MzI5ODkwMn0.LaqJL5uBLOPJG-Dhnm-XTTG_lxKN7xPiU_5zpIXWMp4"
+# 10-29-2025
+token = "eyJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoiZW5jMl8vaWUzdkpIRkxTZDR0STRxY1hOK1pRPT1cbiIsImV4cCI6MTc3MDA3MzI5OX0.RLlDszzAmoCeEBazYQ9RlDmrbRWjRVWCb0YeDyYhyrc"
 # Load the payload from the file
-with open('generated_activities_fins_webinar_FY26_Q2.json', 'r') as file:
+with open('cdapp_75_percent_dates_random_duration.json', 'r') as file:
     payload = json.load(file)
 
 headers = {

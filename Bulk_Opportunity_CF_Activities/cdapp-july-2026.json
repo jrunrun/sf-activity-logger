@@ -1,0 +1,227 @@
+{
+    "events": [{
+        "StartDateTime": "2026-02-02T16:30:00.000-05:00",
+        "Subject": "cdapp",
+        "EndDateTime": "2026-02-02T18:30:00.000-05:00",
+        "SE_Task_Type__c": "Solution Creation",
+        "Description": "",
+        "Remote__c": false,
+        "Meeting_Type__c": "",
+        "Duration__c": "2.00",
+        "WhoId": "",
+        "id": "",
+        "selectedRecord": {},
+        "RecordType": {
+            "value": {
+                "id": "01230000001GgBYAA0",
+                "apiName": "RecordType",
+                "fields": {
+                    "Name": {
+                        "value": "Solutions Event",
+                        "displayValue": "Solutions Event"
+                    },
+                    "Id": {
+                        "value": "01230000001GgBYAA0"
+                    }
+                },
+                "recordTypeInfo": null
+            }
+        }
+    }, {
+        "StartDateTime": "2026-02-03T13:30:00.000-05:00",
+        "Subject": "cdapp",
+        "EndDateTime": "2026-02-03T16:30:00.000-05:00",
+        "SE_Task_Type__c": "Solution Creation",
+        "Description": "",
+        "Remote__c": false,
+        "Meeting_Type__c": "",
+        "Duration__c": "3.00",
+        "WhoId": "",
+        "id": "",
+        "selectedRecord": {},
+        "RecordType": {
+            "value": {
+                "id": "01230000001GgBYAA0",
+                "apiName": "RecordType",
+                "fields": {
+                    "Name": {
+                        "value": "Solutions Event",
+                        "displayValue": "Solutions Event"
+                    },
+                    "Id": {
+                        "value": "01230000001GgBYAA0"
+                    }
+                },
+                "recordTypeInfo": null
+            }
+        }
+    }, {
+        "StartDateTime": "2026-02-04T16:30:00.000-05:00",
+        "Subject": "cdapp",
+        "EndDateTime": "2026-02-04T19:30:00.000-05:00",
+        "SE_Task_Type__c": "Solution Creation",
+        "Description": "",
+        "Remote__c": false,
+        "Meeting_Type__c": "",
+        "Duration__c": "3.00",
+        "WhoId": "",
+        "id": "",
+        "selectedRecord": {},
+        "RecordType": {
+            "value": {
+                "id": "01230000001GgBYAA0",
+                "apiName": "RecordType",
+                "fields": {
+                    "Name": {
+                        "value": "Solutions Event",
+                        "displayValue": "Solutions Event"
+                    },
+                    "Id": {
+                        "value": "01230000001GgBYAA0"
+                    }
+                },
+                "recordTypeInfo": null
+            }
+        }
+    }, {
+        "StartDateTime": "2026-02-05T17:30:00.000-05:00",
+        "Subject": "cdapp",
+        "EndDateTime": "2026-02-05T19:30:00.000-05:00",
+        "SE_Task_Type__c": "Solution Creation",
+        "Description": "",
+        "Remote__c": false,
+        "Meeting_Type__c": "",
+        "Duration__c": "2.00",
+        "WhoId": "",
+        "id": "",
+        "selectedRecord": {},
+        "RecordType": {
+            "value": {
+                "id": "01230000001GgBYAA0",
+                "apiName": "RecordType",
+                "fields": {
+                    "Name": {
+                        "value": "Solutions Event",
+                        "displayValue": "Solutions Event"
+                    },
+                    "Id": {
+                        "value": "01230000001GgBYAA0"
+                    }
+                },
+                "recordTypeInfo": null
+            }
+        }
+    }, {
+        "StartDateTime": "2026-02-06T15:00:00.000-05:00",
+        "Subject": "cdapp",
+        "EndDateTime": "2026-02-06T18:00:00.000-05:00",
+        "SE_Task_Type__c": "Solution Creation",
+        "Description": "",
+        "Remote__c": false,
+        "Meeting_Type__c": "",
+        "Duration__c": "3.00",
+        "WhoId": "",
+        "id": "",
+        "selectedRecord": {},
+        "RecordType": {
+            "value": {
+                "id": "01230000001GgBYAA0",
+                "apiName": "RecordType",
+                "fields": {
+                    "Name": {
+                        "value": "Solutions Event",
+                        "displayValue": "Solutions Event"
+                    },
+                    "Id": {
+                        "value": "01230000001GgBYAA0"
+                    }
+                },
+                "recordTypeInfo": null
+            }
+        }
+    }, {
+        "StartDateTime": "2026-02-10T16:00:00.000-05:00",
+        "Subject": "cdapp",
+        "EndDateTime": "2026-02-10T19:00:00.000-05:00",
+        "SE_Task_Type__c": "Solution Creation",
+        "Description": "",
+        "Remote__c": false,
+        "Meeting_Type__c": "",
+        "Duration__c": "3.00",
+        "WhoId": "",
+        "id": "",
+        "selectedRecord": {},
+        "RecordType": {
+            "value": {
+                "id": "01230000001GgBYAA0",
+                "apiName": "RecordType",
+                "fields": {
+                    "Name": {
+                        "value": "Solutions Event",
+                        "displayValue": "Solutions Event"
+                    },
+                    "Id": {
+                        "value": "01230000001GgBYAA0"
+                    }
+                },
+                "recordTypeInfo": null
+            }
+        }
+    }, {
+        "StartDateTime": "2026-02-11T12:00:00.000-05:00",
+        "Subject": "cdapp",
+        "EndDateTime": "2026-02-11T15:00:00.000-05:00",
+        "SE_Task_Type__c": "Solution Creation",
+        "Description": "",
+        "Remote__c": false,
+        "Meeting_Type__c": "",
+        "Duration__c": "3.00",
+        "WhoId": "",
+        "id": "",
+        "selectedRecord": {},
+        "RecordType": {
+            "value": {
+                "id": "01230000001GgBYAA0",
+                "apiName": "RecordType",
+                "fields": {
+                    "Name": {
+                        "value": "Solutions Event",
+                        "displayValue": "Solutions Event"
+                    },
+                    "Id": {
+                        "value": "01230000001GgBYAA0"
+                    }
+                },
+                "recordTypeInfo": null
+            }
+        }
+    }, {
+        "StartDateTime": "2026-02-12T18:00:00.000-05:00",
+        "Subject": "cdapp",
+        "EndDateTime": "2026-02-12T19:00:00.000-05:00",
+        "SE_Task_Type__c": "Solution Creation",
+        "Description": "",
+        "Remote__c": false,
+        "Meeting_Type__c": "",
+        "Duration__c": "1.00",
+        "WhoId": "",
+        "id": "",
+        "selectedRecord": {},
+        "RecordType": {
+            "value": {
+                "id": "01230000001GgBYAA0",
+                "apiName": "RecordType",
+                "fields": {
+                    "Name": {
+                        "value": "Solutions Event",
+                        "displayValue": "Solutions Event"
+                    },
+                    "Id": {
+                        "value": "01230000001GgBYAA0"
+                    }
+                },
+                "recordTypeInfo": null
+            }
+        }
+    }]
+}

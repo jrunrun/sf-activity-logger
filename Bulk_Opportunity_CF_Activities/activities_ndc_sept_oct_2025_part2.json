@@ -1,0 +1,25 @@
+{
+    "events": [{
+        "Description": "",
+        "Duration__c": "10.00",
+        "EndDateTime": "2025-09-30T00:30:00.000-05:00",
+        "id": "",
+        "Meeting_Type__c": "",
+        "RecordTypeId": "01230000001GgBYAA0",
+        "Remote__c": false,
+        "SE_Task_Type__c": "Customer Presentation",
+        "selectedRecord": {
+          "additionalFields": {},
+          "display_field_1": "",
+          "iconType": "standard",
+          "iconUrl": "",
+          "id": "006ed00000KXb25AAD",
+          "sobject": "opportunity"
+        },
+        "StartDateTime": "2025-09-29T14:30:00.000-05:00",
+        "Subject": "NDC",
+        "WhatId": "006ed00000KXb25AAD",
+        "WhoId": ""
+      }
+      ]
+}

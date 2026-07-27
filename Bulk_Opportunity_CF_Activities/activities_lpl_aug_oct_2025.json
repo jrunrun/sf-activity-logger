@@ -1,0 +1,215 @@
+{
+    "events": [{
+        "Description": "",
+        "Duration__c": "2.00",
+        "EndDateTime": "2025-08-19T14:30:00.000-05:00",
+        "id": "",
+        "Meeting_Type__c": "",
+        "RecordTypeId": "01230000001GgBYAA0",
+        "Remote__c": false,
+        "SE_Task_Type__c": "Customer Presentation",
+        "selectedRecord": {
+            "additionalFields": {},
+            "display_field_1": "",
+            "iconType": "standard",
+            "iconUrl": "",
+            "id": "006ed00000Isr51AAB",
+            "sobject": "opportunity"
+        },
+        "StartDateTime": "2025-08-19T12:30:00.000-05:00",
+        "Subject": "LPL",
+        "WhatId": "006ed00000Isr51AAB",
+        "WhoId": ""
+    }, {
+        "Description": "",
+        "Duration__c": "2.00",
+        "EndDateTime": "2025-08-25T12:30:00.000-05:00",
+        "id": "",
+        "Meeting_Type__c": "",
+        "RecordTypeId": "01230000001GgBYAA0",
+        "Remote__c": false,
+        "SE_Task_Type__c": "Customer Presentation",
+        "selectedRecord": {
+            "additionalFields": {},
+            "display_field_1": "",
+            "iconType": "standard",
+            "iconUrl": "",
+            "id": "006ed00000Isr51AAB",
+            "sobject": "opportunity"
+        },
+        "StartDateTime": "2025-08-25T10:30:00.000-05:00",
+        "Subject": "LPL",
+        "WhatId": "006ed00000Isr51AAB",
+        "WhoId": ""
+    }, {
+        "Description": "",
+        "Duration__c": "2.00",
+        "EndDateTime": "2025-08-26T17:00:00.000-05:00",
+        "id": "",
+        "Meeting_Type__c": "",
+        "RecordTypeId": "01230000001GgBYAA0",
+        "Remote__c": false,
+        "SE_Task_Type__c": "Customer Presentation",
+        "selectedRecord": {
+            "additionalFields": {},
+            "display_field_1": "",
+            "iconType": "standard",
+            "iconUrl": "",
+            "id": "006ed00000Isr51AAB",
+            "sobject": "opportunity"
+        },
+        "StartDateTime": "2025-08-26T15:00:00.000-05:00",
+        "Subject": "LPL",
+        "WhatId": "006ed00000Isr51AAB",
+        "WhoId": ""
+    }, {
+        "Description": "",
+        "Duration__c": "2.00",
+        "EndDateTime": "2025-08-28T11:00:00.000-05:00",
+        "id": "",
+        "Meeting_Type__c": "",
+        "RecordTypeId": "01230000001GgBYAA0",
+        "Remote__c": false,
+        "SE_Task_Type__c": "Customer Presentation",
+        "selectedRecord": {
+            "additionalFields": {},
+            "display_field_1": "",
+            "iconType": "standard",
+            "iconUrl": "",
+            "id": "006ed00000Isr51AAB",
+            "sobject": "opportunity"
+        },
+        "StartDateTime": "2025-08-28T09:00:00.000-05:00",
+        "Subject": "LPL",
+        "WhatId": "006ed00000Isr51AAB",
+        "WhoId": ""
+    }, {
+        "Description": "",
+        "Duration__c": "2.00",
+        "EndDateTime": "2025-09-03T17:00:00.000-05:00",
+        "id": "",
+        "Meeting_Type__c": "",
+        "RecordTypeId": "01230000001GgBYAA0",
+        "Remote__c": false,
+        "SE_Task_Type__c": "Customer Presentation",
+        "selectedRecord": {
+            "additionalFields": {},
+            "display_field_1": "",
+            "iconType": "standard",
+            "iconUrl": "",
+            "id": "006ed00000Isr51AAB",
+            "sobject": "opportunity"
+        },
+        "StartDateTime": "2025-09-03T15:00:00.000-05:00",
+        "Subject": "LPL",
+        "WhatId": "006ed00000Isr51AAB",
+        "WhoId": ""
+    }, {
+        "Description": "",
+        "Duration__c": "2.00",
+        "EndDateTime": "2025-09-04T14:30:00.000-05:00",
+        "id": "",
+        "Meeting_Type__c": "",
+        "RecordTypeId": "01230000001GgBYAA0",
+        "Remote__c": false,
+        "SE_Task_Type__c": "Customer Presentation",
+        "selectedRecord": {
+            "additionalFields": {},
+            "display_field_1": "",
+            "iconType": "standard",
+            "iconUrl": "",
+            "id": "006ed00000Isr51AAB",
+            "sobject": "opportunity"
+        },
+        "StartDateTime": "2025-09-04T12:30:00.000-05:00",
+        "Subject": "LPL",
+        "WhatId": "006ed00000Isr51AAB",
+        "WhoId": ""
+    }, {
+        "Description": "",
+        "Duration__c": "2.00",
+        "EndDateTime": "2025-09-08T13:30:00.000-05:00",
+        "id": "",
+        "Meeting_Type__c": "",
+        "RecordTypeId": "01230000001GgBYAA0",
+        "Remote__c": false,
+        "SE_Task_Type__c": "Customer Presentation",
+        "selectedRecord": {
+            "additionalFields": {},
+            "display_field_1": "",
+            "iconType": "standard",
+            "iconUrl": "",
+            "id": "006ed00000Isr51AAB",
+            "sobject": "opportunity"
+        },
+        "StartDateTime": "2025-09-08T11:30:00.000-05:00",
+        "Subject": "LPL",
+        "WhatId": "006ed00000Isr51AAB",
+        "WhoId": ""
+    }, {
+        "Description": "",
+        "Duration__c": "2.00",
+        "EndDateTime": "2025-09-10T13:30:00.000-05:00",
+        "id": "",
+        "Meeting_Type__c": "",
+        "RecordTypeId": "01230000001GgBYAA0",
+        "Remote__c": false,
+        "SE_Task_Type__c": "Customer Presentation",
+        "selectedRecord": {
+            "additionalFields": {},
+            "display_field_1": "",
+            "iconType": "standard",
+            "iconUrl": "",
+            "id": "006ed00000Isr51AAB",
+            "sobject": "opportunity"
+        },
+        "StartDateTime": "2025-09-10T11:30:00.000-05:00",
+        "Subject": "LPL",
+        "WhatId": "006ed00000Isr51AAB",
+        "WhoId": ""
+    }, {
+        "Description": "",
+        "Duration__c": "2.00",
+        "EndDateTime": "2025-09-29T14:30:00.000-05:00",
+        "id": "",
+        "Meeting_Type__c": "",
+        "RecordTypeId": "01230000001GgBYAA0",
+        "Remote__c": false,
+        "SE_Task_Type__c": "Customer Presentation",
+        "selectedRecord": {
+            "additionalFields": {},
+            "display_field_1": "",
+            "iconType": "standard",
+            "iconUrl": "",
+            "id": "006ed00000Isr51AAB",
+            "sobject": "opportunity"
+        },
+        "StartDateTime": "2025-09-29T12:30:00.000-05:00",
+        "Subject": "LPL",
+        "WhatId": "006ed00000Isr51AAB",
+        "WhoId": ""
+    }, {
+        "Description": "",
+        "Duration__c": "2.00",
+        "EndDateTime": "2025-10-16T11:30:00.000-05:00",
+        "id": "",
+        "Meeting_Type__c": "",
+        "RecordTypeId": "01230000001GgBYAA0",
+        "Remote__c": false,
+        "SE_Task_Type__c": "Customer Presentation",
+        "selectedRecord": {
+            "additionalFields": {},
+            "display_field_1": "",
+            "iconType": "standard",
+            "iconUrl": "",
+            "id": "006ed00000Isr51AAB",
+            "sobject": "opportunity"
+        },
+        "StartDateTime": "2025-10-16T09:30:00.000-05:00",
+        "Subject": "LPL",
+        "WhatId": "006ed00000Isr51AAB",
+        "WhoId": ""
+    }]
+
+
+}

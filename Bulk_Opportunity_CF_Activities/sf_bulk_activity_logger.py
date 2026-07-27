@@ -2,9 +2,9 @@ import requests
 import json
 
 url = "https://activityeditor.qlabs.sfdc.sh/v1/push_bulk_activities"
-token = "eyJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoiZW5jMl8vaWUzdkpIRkxTZDR0STRxY1hOK1pRPT1cbiIsImV4cCI6MTc1MzEyMjcxMH0.MtzHonrnyGCQzxith36E27sAMO3U4vHdWaNoiL5Azjk"
+token = "eyJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoiZW5jMl8vaWUzdkpIRkxTZDR0STRxY1hOK1pRPT1cbiIsImV4cCI6MTc4NDY4MTk3M30.QlFgI9Aqb2HGWRASyFnX_QbFc_ycgFJ1uC_vBx5vWA8"
 # Load the payload from the file
-with open('generated_activities_FY26_Q2.json', 'r') as file:
+with open('cleaned_events.json', 'r') as file:
     payload = json.load(file)
 
 headers = {

@@ -1,0 +1,150 @@
+{
+    "events": [{
+        "Description": "",
+        "Duration__c": "2.00",
+        "EndDateTime": "2025-09-12T14:00:00.000-05:00",
+        "id": "",
+        "Meeting_Type__c": "",
+        "RecordTypeId": "01230000001GgBYAA0",
+        "Remote__c": false,
+        "SE_Task_Type__c": "Customer Presentation",
+        "selectedRecord": {
+            "additionalFields": {},
+            "display_field_1": "",
+            "iconType": "standard",
+            "iconUrl": "",
+            "id": "006ed00000KXb25AAD",
+            "sobject": "opportunity"
+        },
+        "StartDateTime": "2025-09-12T12:00:00.000-05:00",
+        "Subject": "NDC",
+        "WhatId": "006ed00000KXb25AAD",
+        "WhoId": ""
+    }, {
+        "Description": "",
+        "Duration__c": "2.00",
+        "EndDateTime": "2025-09-16T15:30:00.000-05:00",
+        "id": "",
+        "Meeting_Type__c": "",
+        "RecordTypeId": "01230000001GgBYAA0",
+        "Remote__c": false,
+        "SE_Task_Type__c": "Customer Presentation",
+        "selectedRecord": {
+            "additionalFields": {},
+            "display_field_1": "",
+            "iconType": "standard",
+            "iconUrl": "",
+            "id": "006ed00000KXb25AAD",
+            "sobject": "opportunity"
+        },
+        "StartDateTime": "2025-09-16T13:30:00.000-05:00",
+        "Subject": "NDC",
+        "WhatId": "006ed00000KXb25AAD",
+        "WhoId": ""
+    }, {
+        "Description": "",
+        "Duration__c": "2.00",
+        "EndDateTime": "2025-09-17T17:30:00.000-05:00",
+        "id": "",
+        "Meeting_Type__c": "",
+        "RecordTypeId": "01230000001GgBYAA0",
+        "Remote__c": false,
+        "SE_Task_Type__c": "Customer Presentation",
+        "selectedRecord": {
+            "additionalFields": {},
+            "display_field_1": "",
+            "iconType": "standard",
+            "iconUrl": "",
+            "id": "006ed00000KXb25AAD",
+            "sobject": "opportunity"
+        },
+        "StartDateTime": "2025-09-17T15:30:00.000-05:00",
+        "Subject": "NDC",
+        "WhatId": "006ed00000KXb25AAD",
+        "WhoId": ""
+    }, {
+        "Description": "",
+        "Duration__c": "2.00",
+        "EndDateTime": "2025-09-23T15:00:00.000-05:00",
+        "id": "",
+        "Meeting_Type__c": "",
+        "RecordTypeId": "01230000001GgBYAA0",
+        "Remote__c": false,
+        "SE_Task_Type__c": "Customer Presentation",
+        "selectedRecord": {
+            "additionalFields": {},
+            "display_field_1": "",
+            "iconType": "standard",
+            "iconUrl": "",
+            "id": "006ed00000KXb25AAD",
+            "sobject": "opportunity"
+        },
+        "StartDateTime": "2025-09-23T13:00:00.000-05:00",
+        "Subject": "NDC",
+        "WhatId": "006ed00000KXb25AAD",
+        "WhoId": ""
+    }, {
+        "Description": "",
+        "Duration__c": "10.00",
+        "EndDateTime": "2025-09-29T16:30:00.000-05:00",
+        "id": "",
+        "Meeting_Type__c": "",
+        "RecordTypeId": "01230000001GgBYAA0",
+        "Remote__c": false,
+        "SE_Task_Type__c": "Customer Presentation",
+        "selectedRecord": {
+            "additionalFields": {},
+            "display_field_1": "",
+            "iconType": "standard",
+            "iconUrl": "",
+            "id": "006ed00000KXb25AAD",
+            "sobject": "opportunity"
+        },
+        "StartDateTime": "2025-09-29T14:30:00.000-05:00",
+        "Subject": "NDC",
+        "WhatId": "006ed00000KXb25AAD",
+        "WhoId": ""
+    }, {
+        "Description": "",
+        "Duration__c": "2.00",
+        "EndDateTime": "2025-10-01T11:30:00.000-05:00",
+        "id": "",
+        "Meeting_Type__c": "",
+        "RecordTypeId": "01230000001GgBYAA0",
+        "Remote__c": false,
+        "SE_Task_Type__c": "Customer Presentation",
+        "selectedRecord": {
+            "additionalFields": {},
+            "display_field_1": "",
+            "iconType": "standard",
+            "iconUrl": "",
+            "id": "006ed00000KXb25AAD",
+            "sobject": "opportunity"
+        },
+        "StartDateTime": "2025-10-01T09:30:00.000-05:00",
+        "Subject": "NDC",
+        "WhatId": "006ed00000KXb25AAD",
+        "WhoId": ""
+    }, {
+        "Description": "",
+        "Duration__c": "2.00",
+        "EndDateTime": "2025-10-02T11:00:00.000-05:00",
+        "id": "",
+        "Meeting_Type__c": "",
+        "RecordTypeId": "01230000001GgBYAA0",
+        "Remote__c": false,
+        "SE_Task_Type__c": "Customer Presentation",
+        "selectedRecord": {
+            "additionalFields": {},
+            "display_field_1": "",
+            "iconType": "standard",
+            "iconUrl": "",
+            "id": "006ed00000KXb25AAD",
+            "sobject": "opportunity"
+        },
+        "StartDateTime": "2025-10-02T09:00:00.000-05:00",
+        "Subject": "NDC",
+        "WhatId": "006ed00000KXb25AAD",
+        "WhoId": ""
+    }]
+}

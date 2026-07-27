@@ -1,0 +1,90 @@
+{
+    "events": [{
+            "StartDateTime": "2025-11-19T15:30:00.000-05:00",
+            "Subject": "cdapp",
+            "EndDateTime": "2025-11-19T17:30:00.000-05:00",
+            "SE_Task_Type__c": "Solution Creation",
+            "Description": "",
+            "Remote__c": false,
+            "Meeting_Type__c": "",
+            "Duration__c": "2.00",
+            "WhoId": "",
+            "id": "",
+            "selectedRecord": {},
+            "RecordType": {
+                "value": {
+                    "id": "01230000001GgBYAA0",
+                    "apiName": "RecordType",
+                    "fields": {
+                        "Name": {
+                            "value": "Solutions Event",
+                            "displayValue": "Solutions Event"
+                        },
+                        "Id": {
+                            "value": "01230000001GgBYAA0"
+                        }
+                    },
+                    "recordTypeInfo": null
+                }
+            }
+        },
+        {
+            "StartDateTime": "2025-12-10T16:30:00.000-05:00",
+            "Subject": "cdapp",
+            "EndDateTime": "2025-12-10T19:30:00.000-05:00",
+            "SE_Task_Type__c": "Solution Creation",
+            "Description": "",
+            "Remote__c": false,
+            "Meeting_Type__c": "",
+            "Duration__c": "3.00",
+            "WhoId": "",
+            "id": "",
+            "selectedRecord": {},
+            "RecordType": {
+                "value": {
+                    "id": "01230000001GgBYAA0",
+                    "apiName": "RecordType",
+                    "fields": {
+                        "Name": {
+                            "value": "Solutions Event",
+                            "displayValue": "Solutions Event"
+                        },
+                        "Id": {
+                            "value": "01230000001GgBYAA0"
+                        }
+                    },
+                    "recordTypeInfo": null
+                }
+            }
+        },
+        {
+            "StartDateTime": "2025-12-11T19:00:00.000-05:00",
+            "Subject": "cdapp",
+            "EndDateTime": "2025-12-11T21:00:00.000-05:00",
+            "SE_Task_Type__c": "Solution Creation",
+            "Description": "",
+            "Remote__c": false,
+            "Meeting_Type__c": "",
+            "Duration__c": "2.00",
+            "WhoId": "",
+            "id": "",
+            "selectedRecord": {},
+            "RecordType": {
+                "value": {
+                    "id": "01230000001GgBYAA0",
+                    "apiName": "RecordType",
+                    "fields": {
+                        "Name": {
+                            "value": "Solutions Event",
+                            "displayValue": "Solutions Event"
+                        },
+                        "Id": {
+                            "value": "01230000001GgBYAA0"
+                        }
+                    },
+                    "recordTypeInfo": null
+                }
+            }
+        }
+    ]
+}
